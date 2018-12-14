@@ -10,9 +10,9 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
+- [Example Reading](https://www.github.com/ga-wdi-boston/example)
+- [Example Reading](https://www.github.com/ga-wdi-boston/example)
+- [Example Reading](https://www.github.com/ga-wdi-boston/example)
 
 ## EXAMPLE: Define "single-page application" (SPA)
 
