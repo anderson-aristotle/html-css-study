@@ -1,4 +1,4 @@
-# EXAMPLE Study
+# HTML CSS Study
 
 Use your favorite search engine and the provided readings to research and
 respond to the following questions.
@@ -10,9 +10,10 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
-- [Example Reading](https://www.github.com/ga-wdi-boston/example)
-- [Example Reading](https://www.github.com/ga-wdi-boston/example)
-- [Example Reading](https://www.github.com/ga-wdi-boston/example)
+- [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
+- [Building Forms](https://learn.shayhowe.com/html-css/building-forms/)
+- [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+- [CSS Diner](https://flukeout.github.io/)
 
 ## EXAMPLE: Define "single-page application" (SPA)
 
@@ -41,3 +42,7 @@ How do front-end "routers" help manage view-state?
 ```md
 <!-- your answer here -->
 ```
+
+## Additional Resources
+
+[Complex CSS Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
