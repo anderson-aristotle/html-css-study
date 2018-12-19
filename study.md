@@ -53,4 +53,6 @@ Explain how cascading works with CSS properties.
 
 ## Additional Resources
 
-[Complex CSS Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+- [Complex CSS Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+- [HTML & CSS](https://learn.shayhowe.com/html-css/)
+- [Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
