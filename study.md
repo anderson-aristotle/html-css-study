@@ -29,7 +29,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
     <!-- your answer here -->
     ```
 
-1. List 5 semantic HTML elements.
+1. List 5 alternatives to using a `div` element.
 
     ```md
     <!-- your answer here -->
