@@ -11,7 +11,7 @@
 
 By the end of this, developers should be able to:
 
-- Explain the why semantic HTML elements are used.
+- Explain why semantic HTML elements are used.
 - List HTML elements.
 - Explain how properties cascade in CSS.
 
