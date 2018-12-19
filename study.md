@@ -51,6 +51,41 @@ Explain how cascading works with CSS properties.
 <!-- your answer here -->
 ```
 
+### CSS: Combining Selectors
+
+Given the following HTML:
+
+```html
+<div class='user-profiles'>
+  <ul class='profile-list'>
+     <li>User 1</li>
+     <li>User 2</li>
+     <li>User 2</li>
+  </ul>
+</div>
+
+<div class='team-profiles'>
+  <ul class='profile-list'>
+     <li>Team 1</li>
+     <li>Team 2</li>
+     <li>Team 3</li>
+  </ul>
+</div>
+```
+And the following CSS:
+
+```css
+.team-profiles .profile-list li:first-child {
+   background-color: red;
+}
+```
+
+Which HTML element(s) will receive the red background?
+
+  ```md
+  <!-- your answer here -->
+  ```
+
 ## Additional Resources
 
 - [Complex CSS Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
