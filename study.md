@@ -17,7 +17,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 - [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
 - [Building Forms](https://learn.shayhowe.com/html-css/building-forms/)
 - [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
-- [CSS Diner](https://flukeout.github.io/)
+- [CSS Diner](https://flukeout.github.io/) (Only levels 1-15)
 
 ## Response Questions
 
@@ -29,7 +29,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
     <!-- your answer here -->
     ```
 
-1. List 5 semantic HTML elements.
+1. List 5 alternatives to using a `div` element.
 
     ```md
     <!-- your answer here -->
@@ -51,6 +51,44 @@ Explain how cascading works with CSS properties.
 <!-- your answer here -->
 ```
 
+### CSS: Combining Selectors
+
+Given the following HTML:
+
+```html
+<div class='user-profiles'>
+  <ul class='profile-list'>
+     <li>User 1</li>
+     <li>User 2</li>
+     <li>User 2</li>
+  </ul>
+</div>
+
+<div class='team-profiles'>
+  <ul class='profile-list'>
+     <li>Team 1</li>
+     <li>Team 2</li>
+     <li>Team 3</li>
+  </ul>
+</div>
+```
+And the following CSS:
+
+```css
+.team-profiles .profile-list li:first-child {
+   background-color: red;
+}
+```
+
+Which HTML element(s) will receive the red background?
+
+  ```md
+  <!-- your answer here -->
+  ```
+
 ## Additional Resources
 
-[Complex CSS Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+- [Complex CSS Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+- [HTML & CSS](https://learn.shayhowe.com/html-css/)
+- [Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
+- [CSS Diner](https://flukeout.github.io/) (levels 16-32)
