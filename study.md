@@ -26,13 +26,13 @@ material. Instead, digest what you've read and repeat it in your own voice.
 1. What is the importance of using semantic HTML elements?
 
     ```md
-    <!-- your answer here -->
+  Semantic HTML allows programmers to understand the order in which elements appear on the page.
     ```
 
 1. List 5 alternatives to using a `div` element.
 
     ```md
-    <!-- your answer here -->
+    Real tags help with semantic HTML elements: sections, headers, footer, nav, and aside.
     ```
 
 ### HTML: Forms
@@ -40,7 +40,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 List 6 values for the `type` attribute on `input` elements.
 
 ```md
-<!-- your answer here -->
+checkbox, button, imagine, hidden, file, time
 ```
 
 ### CSS: Cascading Properties
@@ -48,7 +48,8 @@ List 6 values for the `type` attribute on `input` elements.
 Explain how cascading works with CSS properties.
 
 ```md
-<!-- your answer here -->
+When a single element has multiple styles, the elements will inherit its style from
+the parent element or from top down.
 ```
 
 ### CSS: Combining Selectors
@@ -83,7 +84,7 @@ And the following CSS:
 Which HTML element(s) will receive the red background?
 
   ```md
-  <!-- your answer here -->
+  team 1, <li>
   ```
 
 ## Additional Resources
